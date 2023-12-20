@@ -1,0 +1,4 @@
+#sidebar a.nav-link.active {
+  color: rgb(175, 49, 49)
+  /* Add any additional styling for the active NavLink */
+}

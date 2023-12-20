@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Birthday Party",
+    "image": "https://i.ibb.co/z2kWvn5/birthday.png",
+    "price": 5000.00,
+    "short_description": "Celebrate a special birthday with us! Enjoy a day filled with laughter, joy, and delightful surprises.",
+    "long_description": "Immerse yourself in a world of celebration with our Birthday Party package. From personalized decorations to a delicious cake, we handle every detail to make your day unforgettable. Our dedicated team ensures a seamless experience, allowing you to focus on creating lasting memories with your loved ones.",
+    "button":"Book now"
+  },
+  {
+    "id": 2,
+    "name": "Engagement",
+    "image": "https://i.ibb.co/cFQzfHt/engagement.png",
+    "price": 7000.00,
+    "short_description": "Create memories for your engagement. Capture the essence of this special moment surrounded by love and beauty.",
+    "long_description": "Embark on the journey of a lifetime with our Engagement package. Our expert team will orchestrate a romantic setting, complete with elegant decor and personalized touches. From the venue arrangement to the finest details, we ensure your engagement is a magical experience that reflects your unique love story.",
+    "button":"Book now"
+  },
+  {
+    "id": 3,
+    "name": "Graduation Party",
+    "image": "https://i.ibb.co/gwcXL02/graduation.png",
+    "price": 6500.00,
+    "short_description": "Commence a new chapter in style. Celebrate your achievements with a ceremony that reflects your hard work and dedication.",
+    "long_description": "Mark the milestone of graduation with our Graduation Party package. We take pride in creating a sophisticated and celebratory atmosphere for you and your guests. From thematic decorations to a memorable program, our team is dedicated to making your graduation party an extraordinary event.",
+    "button":"Book now"
+  },
+  {
+    "id": 4,
+    "name": "Wedding Planning",
+    "image": "https://i.ibb.co/jM8JQL5/wedding.png",
+    "price": 8000.00,
+    "short_description": "Unforgettable moments for your big day. Embrace the magic of love and union in a ceremony crafted just for you.",
+    "long_description": "Experience the wedding of your dreams with our Wedding Planning package. Our team of experts will guide you through every step, ensuring that your special day is a reflection of your love story. From venue selection to coordinating vendors, we take care of the details, allowing you to savor every moment of your wedding celebration.",
+    "button":"Book now"
+  },
+  {
+    "id": 5,
+    "name": "Akikah Party",
+    "image": "https://i.ibb.co/g74wPbz/akikah.png",
+    "price": 3000.00,
+    "short_description": "Celebrate the joy of welcoming a new life. Cherish the blessings of family and community in this special ceremony",
+    "long_description": "Honor the arrival of a new life with our Akikah Party package. Our team ensures a heartwarming and meaningful ceremony surrounded by loved ones. From traditional rituals to modern conveniences, we create an atmosphere that allows you to focus on the blessings of family and community during this special occasion.",
+    "button":"Book now"
+  },
+  {
+    "id": 6,
+    "name": "Anniversary",
+    "image": "https://i.ibb.co/rp7dpb6/ann.png",
+    "price": 3000.00,
+    "short_description": "Mark another year of love and togetherness.",
+    "long_description": "Celebrate the journey of love and togetherness with our Anniversary package. Our team specializes in creating a romantic and intimate setting to commemorate your special day. From personalized touches to a carefully curated atmosphere, we ensure that your anniversary celebration is a reflection of the enduring bond you share.",
+    "button":"Book now"
+  }
+]
