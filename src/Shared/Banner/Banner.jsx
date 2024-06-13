@@ -6,7 +6,7 @@ import image from '../../../public/img/venue.png'
     const Banner = () => {
         return (
             <div className="carousel w-full bg-black opacity-90 h-full">
-            <div id="slide1" className="carousel-item relative w-full h-full bg-black opacity-40 ">
+            <div id="slide1" className="carousel-item relative w-full h-full bg-black opacity-70 ">
 
               <img src='./img/venue.png' className="w-full h-full" />
              </div>
